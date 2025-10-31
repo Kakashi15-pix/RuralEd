@@ -1,4 +1,4 @@
-# RuralEd+ Project Summary
+# RuralEd+
 
 ## 🎯 Project Overview
 **RuralEd+** is an AI-powered personalized learning platform designed specifically for rural students with limited resources. It combines artificial intelligence, 3D/VR learning, multilingual support, and gamification to create an engaging educational experience.
